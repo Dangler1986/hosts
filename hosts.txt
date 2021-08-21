@@ -1,2 +1,2 @@
 [staging_servers]
-[linux] ansible_host=192.168.1.129   ansible_user=root ansible_ssh_private_key_file=/root/.ssh/centos-key1.pem
+linux-01 ansible_host=192.168.1.129   ansible_user=root ansible_ssh_private_key_file=/root/.ssh/centos-key1.pem
